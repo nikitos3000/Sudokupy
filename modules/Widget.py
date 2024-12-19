@@ -1,6 +1,6 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 
-from MyLabel import MyLabel
+from modules.MyLabel import MyLabel
 
 
 class Widget(QtWidgets.QWidget):
